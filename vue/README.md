@@ -126,3 +126,58 @@ npm install swiper@5.3.7 --save-dev
 ```make
 npm install @morioh/v-lightbox --save-dev
 ```
+
+## 부속 라이브러리
+
+```make
+npm install axios --save-dev
+
+npm install materialize-css@next --save-dev
+npm install material-design-icons --save-dev
+
+vue add vuetify
+
+<------------------ Vuetify 설치도중 메시지 시작 --------------------->
+ WARN  There are uncommitted changes in the current repository, it's recommended to commit or stash them first.
+? Still proceed? Yes
+
+📦  Installing vue-cli-plugin-vuetify...
+
++ vue-cli-plugin-vuetify@2.4.7
+updated 1 package and audited 1343 packages in 5.869s
+
+94 packages are looking for funding
+  run `npm fund` for details
+
+found 17 vulnerabilities (2 low, 11 moderate, 4 high)
+  run `npm audit fix` to fix them, or `npm audit` for details
+✔  Successfully installed plugin: vue-cli-plugin-vuetify
+
+? Choose a preset: Default (recommended)
+
+🚀  Invoking generator for vue-cli-plugin-vuetify...
+📦  Installing additional dependencies...
+
+added 14 packages from 9 contributors and audited 1357 packages in 6.511s
+
+98 packages are looking for funding
+  run `npm fund` for details
+
+found 17 vulnerabilities (2 low, 11 moderate, 4 high)
+  run `npm audit fix` to fix them, or `npm audit` for details
+⚓  Running completion hooks...
+
+✔  Successfully invoked generator for plugin: vue-cli-plugin-vuetify
+ vuetify  Discord community: https://community.vuetifyjs.com
+ vuetify  Github: https://github.com/vuetifyjs/vuetify
+ vuetify  Support Vuetify: https://github.com/sponsors/johnleider
+ <------------------ Vuetify 설치도중 메시지 종료 --------------------->
+ 
+npm add vue-coverflow
+npm install vue-awesome-swiper --save-dev
+npm install swiper@5.3.7 --save-dev
+ 
+npm install @mdi/font --save-dev
+
+npm install --save vue-cookies --save-dev
+```
