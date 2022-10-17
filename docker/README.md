@@ -13,5 +13,8 @@
 10. https://docs.microsoft.com/ko-kr/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package 패치
 11. x64 WSL 업데이트 패치 설치
 12. PowerShell 에서 wsl --set-default-version 2 입력
-13. 
+13. 아래 링크의 절차를 따라서 리눅스를 설치합니다.
+    https://learn.microsoft.com/ko-kr/windows/wsl/install-manual#step-6---install-your-linux-distribution-of-choice
+    Docker라서 버전이 상관 없지만 20.04가 가장 무난할 것으로 파악됨.
+    모든 설치가 완료되면 OK!
 ```
